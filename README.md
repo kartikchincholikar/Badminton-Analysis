@@ -4,10 +4,10 @@ An attempt to derive insights from data to find a player's "Patterns of Play". T
 ![Sample report](<./sample_report.jpg>)
 
 # Data
-Here is an example rally:
+Here is an example rally :
 > b 7 d 3 a 7b g 3 plafowon 
 
-We can read this as:
+We can read this as :
 
 b    : position on court\
 7    : position on court ( an overhead has been hit )\
