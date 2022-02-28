@@ -21,4 +21,4 @@ pla  : rally ended because the shuttle was hit "OUT"\
 fo   : the error was forced\
 won  : the rally was won by the player in question.
 
-Each of these tokens are represented as vectors (distributed or one hot) and can be fed to an RNN.
+Each of these tokens are represented as vectors (distributed or one hot) and can be fed as input to an RNN.
