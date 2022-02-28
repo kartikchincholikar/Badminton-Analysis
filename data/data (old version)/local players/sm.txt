@@ -1,0 +1,34 @@
+ 5 a 1 a 5 c 6 plafowon
+ b 7 plaufowon
+ e 7 a 9 a posufowon
+ e 3 c 8 d posfolost
+ 5 c 1 a 4 plaufolost
+ 5 a 9 f posfolost
+ 5 c 3 plafowon
+ b posufowon
+ e 1 a 8 f posfolost
+ 5 a 7 i 5 b 5 plafowon
+ e 1 a 1 plaufowon
+ e 1 a 8 i 3 i 5 plaufolost
+ 5 c 7 c 3 plaufolost
+ 5 c 5 plafowon
+ e 3 c 7 a 7 e posfolost
+ 5 a 3 i 4 a 1 i posufolost
+ 5 c 1 i 9 plaufowon
+ d posufowon
+ e 1 c 8 f 3 c 3 i 6 a 7 c 7b a 1 i 1 a 3 plafowon
+ e 1 c 7 d 2 b 2 i 5 a 5 a posufolost
+ 5 c 3 h 6 plafowon
+ e 7 d 2 plaufowon
+ e 3 c 9 c 7 d posfolost
+ e 7 a 3 c 3 g 4 plaufolost
+ e 3 i 5 b 5 plafowon
+ e 1 gb 7 i 7 f posfolost
+ 5 c 1 i posfolost
+ e 3 i 3 i 1 a 1 plaufolost
+ 5 c 1 i 1 a 1 plafowon
+ e 6 e posfolost
+ e 3 c 3 g 4 a 5 c 6 plaufolost
+ 5 a 1 gb 5 plafowon
+ 5 c 3 g 7 a 1 a 1 f posufowon
+ e 1 i 9 c 7 c 7 g 1

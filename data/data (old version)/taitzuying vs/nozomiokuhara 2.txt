@@ -1,0 +1,266 @@
+1 3 a 9 plaufolost
+2 i 6 plaufolost
+3 g 5 b 3 i 9 i 1 g 7 g 8 i 6 plafowon
+4 s 1 i 6 b 9 c 7 g 9 i 9 i 9 d posufolost
+5 i 7 d posfolost
+6 g 5 c 9 b 3 i 5 b 3 i 6 b 7 d 1 plaufolost
+7 i posufowon
+8 s 1 i 6 b 5 e 7 e 3 e posfolost
+9 g 5 e 5 i 7 plaufolost
+10 i 6 plafolost
+11 g 4 a 9 g 4 a 9 b 9 g 9 i 4 plafowon
+12 s 1 g 8 c 7 a 1 g 7 a 1 c posufowon
+13 s 9 i 9 e posfolost
+14 i 6 b 9 c 9 c 9 c 2 i 7 d 7 d posfolost
+15 g 3 g 9 f posfolost
+16 i 6 c 7 g 4 a 9 e posfolost
+17 g 9 f 7 i 3 b 8 f 9 i 9 c 1 plafowon
+18 s 1 g 5 b 5 i 6 e 5 g 9 e 3 c 7 d 1 g 9 b 1 g 2 c 9 a 3 g 7 g 7 g 5 c 9 i 9 c 1 plafowon
+19 s 9 g 9 e 2 c 9 f 3 g 1 a 1 g 5 e 5 e 3 g 9 a posufowon
+20 s 1 c 9 i 6 b 3 g 4 b 8 i 9 i 1 plaufolost
+21 i 4 a posufowon
+22 s 3 i 9 b 3 i 3 plaufolost
+23 g 9 f 3 b 9 i 7 g 9 g 4 a 9 i 9 b 7 g 7 g 7 g 9 i 6 c 7 g 2 g 7 f 9 i 9 i 9 i 7 g 3 b 9 c 9 i 9 i 1 a 7 i posfolost
+24 i 6 b 3 i 3 g 9 d posufowon
+25 s 1 g 8 d 1 g 4 a posfowon
+26 s 9 plaufolost
+27 i 1 a 1 g 5 e 2 e 1 d posfolost
+28 i 7 d 3 g 6 c 3 i 9 d 7 e 9 i 7 g 4 a 9 c 9 b 9 plaufolost
+29 g 9 c 9 g 9 plaufolost
+30 i 1 g 6 plaufolost
+31 g 4 g 4 g 9 i 7 g 7 g posfowon
+32 s 7 f 9 c 1 g 7 plaufolost
+33 g 6 b 9 c 9 h 5 c 7 g 7 g 3 i 3 i 9 i 7 d 1 e posfolost
+34 i 5 b 9 i 6 c 1 plafowon
+35 s 1 i 6 plafowon
+36 s 3 i 9 e 2 i 6 b 2 g 1 g 9 f posfolost
+1 g 4 a 1 g 4 a 1 g 4 plaufolost
+2 i 9 e 1 g 9 e 3 c 9 g 4 a 1 plaufolost
+3 g 5 c 5 e 6 plafowon
+4 s 1 g 9 g 4 a 9 g 6 c 3 g 9 a 7 b 3 g 4 plaufolost
+5 i 6 c 9 i 6 plafowon
+6 s 3 i 5 c 5 b 9 f 5 e 3 c 7 d 2 c 7 a 1 i 7 d 1 i 6 b 9 i 3 plafolost
+7 g 5 b 7 i 9 e 3 c 9 b 3 i 9 g 9 c 7 g 9 i 9 i 7 g 9 c 9 c posufowon
+8 s 1 g 9 a 1 i 3 c 3 c 8 e 2 g 7 d 1 e 5 e 5 g 7 c 3 i 9 i 6 a 9 plaufolost
+9 i 7 d 1 b 7 g 7 c posfolost
+10 g 5 b 2 c 1 g 5 c 9 i 9 i 4 plafolost
+11 g posufowon
+12 s 9 g 4 b 9 c 9 g 4 b 1 i 9 f 1 g 6 b 5 e 1 h 9 i 9 c 7 g 8 e 7 g 7 c 9 i 9 b posufowon
+13 s 1 c 7 d 1 d posfolost
+14 i 1 b 9 g posfolost
+15 g 5 b 5 e 9 g 9 g 4 b 2 h 7 d posufolost
+16 i 6 c 7 d 1 g 9 g 4 b 2 b 9 c 9 e 9 plaufolost
+17 g 9 e 2 i 9 a 7 plaufolost
+18 i 5 b 7 g 9 i 5 b 1 g 7 a 3 i 7 d 7 c 9 g 7 a 2 c 9 i 4 a 1 g 7 g 9 b 9 c 1 plafowon
+19 s 3 g 9 f 3 i 9 e 3 g 5 b 5 b 5 c 7 d 5 g 7 a 1 g 7 f 9 g 5 b posfowon
+20 s 1 g 8 g 4 a 5 g 7 c posfolost
+21 g 5 a 9 plafowon
+22 s 3 a 8 d posufolost
+23 i 9 d 7 b 9 i 9 d posfolost
+24 g 9 i 5 e 3 c 7 g 7 plaufolost
+25 i 6 i 9 i 3 b 5 plaufowon
+26 s 1 g 9 i 6 b 4 a posfowon
+27 s 3 i 6 f 5 c 9 g 9 i 9 i 3 i 3 i 7 g 4 a 9 i 9 b 9 g 7 c 3 i 7 g 3 plaufolost
+28 g 4 b 2 i 9 i 1 a 9 i 1 plaufolost
+29 i 7 d 7 e posfolost
+30 g 5 e 2 g 7 e 3 g 9 f 8 e 3 g 7 g 9 plaufolost
+31 g posufowon
+1 s 9 d posfolost
+2 i 9 d 7 g 7 d 7 f posfolost
+3 g 4 a 7 d 1 i posufolost
+4 g posufowon
+5 s 1 g 8 d posfolost
+6 g 4 b 3 c 3 h 7 g 4 b 5 e 3 i 6 c 2 i 7 g 4 plaufolost
+7 i 1 g 5 plafowon
+8 s 3 i 3 c 7 a 2 c 9 f 2 c 9 c 7 g 7 g 7 g 9 i 5 a 9 g 4 a 1 c 5 plafowon
+9 s 1 c 8 c 2 c 7 g 7 c 3 i 7 d 3 g 7 plafowon
+10 s 9 i 3 g 8 g 7 g 7 g 6 plafowon
+11 s 7 i 9 b 1 i 4 plaufolost
+12 g 3 g 1 c 8 d posufowon
+13 s 3 a posufowon
+14 s 1 g 1 g 4 plaufolost
+15 i 9 f posufowon
+16 s 3 g 9 g 7 d 1 a 9 g 8 d 1 g 7 d 1 g 7 c 9 e 7 b 9 b 9 i 9 i 3 c 9 a 9 i 4 a 9 plafowon
+17 s 1 c 7 d 1 g 1 plafowon
+18 s 9 c 9 i 9 d 7 d posfolost
+19 g 5 b 9 b 5 plafowon
+20 s 1 i 6 c 7 d 1 g 4 b 5 g 6 c 4 plafolost
+21 g posufowon
+22 s 9 f 2 i 9 plaufolost
+23 i 3 g 9 f 3 i 7 d posufowon
+24 s 9 i 4 a posufowon
+25 s 9 g posufowon
+26 s 1 g 9 c 3 i 9 f posufowon
+27 s 3 g 9 c 3 i 1 g 7 f posufowon
+28 s 1 i posufowon
+29 s 3 i 6 c 5 e 1 i posufowon
+30 s 1 g 3 i 6 e 5 plafowon
+31 s 9 plaufolost
+32 a 7 d posfolost
+33 c 1 a 9 e 3 f 8 e 1 g posufowon
+34 s 9 a posufowon
+35 s 9 e 3 plaufolost
+36 c 9 i 6 e 3 i 9 f 2 c 9 i 6 c 7 i 7 plaufolost
+37 g 9 i 4 plafowon
+38 s 1 i 5 b 7 plaufolost
+39 c 7 d posufolost
+40 a 9 b 3 i 3 c 9 a posfolost
+41 i 6 plaufolost
+42 a 9 c 7 g 7 c 9 i 6 e 1 plaufolost
+43 c 2 g 4 a 1 g 7 g 7 g posufowon
+44 s 3 i 6 c 3 i 6 b 3 i 6 e 2 i 9 g 9 c 9 g 4 b 1 i 6 c 1 a 8 c 7 g 7 plaufolost
+45 g 1 plaufolost
+46 c 7 d 1 c 9 b 2 i 3 i 3 c 9 g 9 g 4 a posufolost
+47 a 9 b 1 b 3 c 7 c 3 i 7 g posufowon
+48 s 1 i 5 b 9 c 2 g 9 f 3 i 6 i 8 d 1 d posfolost
+49 i 6 b 9 e 4 a 1 g 3 i 3 g 9 g 7 d 7 c posufolost
+50 a 7 a 3 c 9 c 9 i 9 g 4 c 2 g 7 a 1 plafowon
+51 s 3 g 9 g 7 d posfolost
+52 c 9 b 7 d 3 g 6 plafowon
+53 s 1 i 6 c 9 e 3 i 6 c 3 g 4 a 3 g 9 a posfolost
+54 a 9 b 3 g 6 c 9 i 9 b 1 plafowon
+55 s 3 a posfolost
+56 i 4 a 1 g 9 g 9 c posufowon
+57 s 1 g 5 a 1 i 6 g 8 i 3 plaufolost
+58 a 1 h 9 c 2 b 2 g 1 c 7 g 7 plaufowon
+59 s 9 g 9 i 9 i 9 a 7 a 3 g 7 plaufolost
+60 c 9 g 5 e 7 d 1 e 1 g 7 c posfolost
+61 g 6 c 9 g 1 plaufolost
+62 c 9 c 7 g 3 plafowon
+63 s 7 i 7 g 4 g 9 i 7 a 9 e 2 c 8 a posufowon
+64 s 3 c 9 plaufowon
+65 s 7 g 7 plaufowon
+66 s 9 a 7 d posufowon
+67 s 7 g 9 i 9 g 9 g 9 c 9 i 9 c 7 g 9 i 9 i 7 d 7 d posfolost
+68 g 4 b 5 g 9 i 6 c 3 plafowon
+69 s 3 i 5 b 9 c 3 i 6 c 7 i 6 b 3 i 3 g 9 i 6 plafowon
+70 s 7 e 2 h 5 b 3 g posufowon
+71 s 9 f 2 c 7 plaufolost
+72 a 9 i 5 b 7 d 1 g 1 plaufolost
+73 c 3 3 g 7 a 1 g 9 g 9 g 4 a 9 plaufolost
+74 a 9 g 4 plafowon
+75 s 1 g posufowon
+76 s 9 e 3 c 9 e 3 b 3 i 6 c posufowon
+77 s 7 d 1 g 4 b 5 plaufolost
+78 c 1 g 9 f 2 b posufolost
+79 a 9 g 7 d 1 d posfolost
+80 c 1 g 4 a 9 i 9 a 9 i 9 i 3 g 6 c 9 c 1 plaufolost
+81 a 1 g 6 plaufolost
+82 c 3 c 9 i 6 plaufolost
+83 3 plaufowon
+84 s 3 g 9 f 2 i 9 i 9 i 7 plaufowon
+85 s 1 i 6 c 7 g 4 a 1 h 5 c 2 g 4 a 1 h 6 i 5 c 7 i 6 c 9 c 3 g 9 g 9 c 3 plaufolost
+86 c 3 i 5 plafowon
+87 s 3 i posufowon
+88 s 1 g 5 c 2 g 4 b 1 g 7 c 9 b 3 i 9 i 9 c 7 d 1 a 1 g 6 c 9 g 4 plafowon
+89 s 3 a posfolost
+90 g 5 3 c 3 i 5 c 7 d 1 c 8 d 1 c posufolost
+91 1 i 3 b 9 i 6 b 1 i 7 plaufolost
+1 g 4 a 7 g 7 g 6 c 9 c 1 i 1 plafowon
+2 s 3 a 9 g 4 c 3 g 6 c 9 i 9 i 1 plaufolost
+3 i 6 b 3 h 5 b 5 plafowon
+4 s 1 g 4 b 3 c 9 f 7 plaufolost
+5 g 4 a 1 plaufolost
+6 i 6 b 3 i 5 e 3 i 2 g 1 i 9 i 6 b 7 i 3 i 6 c 7 d posfolost
+7 g 4 a 7 g 4 a 3 c 8 a 7 d 3 g 5 b 5 h 1 a 9 g 1 a 3 f posfolost
+8 i 9 d posfolost
+9 g 4 b 1 g 4 b 7 d 1 i 5 g 8 f 7 b 3 i 7 g 7 g 3 c 7 d 2 a posufowon
+10 s 3 a 1 a 1 g 9 i 6 c 3 h 9 f 3 b 2 h 7 plaufolost
+11 i 6 b 9 c 3 i 4 a 9 plaufolost
+12 g 5 b 1 a 7 plaufolost
+13 i 9 d 7 i 9 f posfolost
+14 g 6 c 9 e 3 b 9 i 2 b 7 g 7 g 7 g 3 plaufowon
+15 s 1 g 4 c posfolost
+16 i 1 plaufolost
+17 g 9 i 3 i 4 a 6 plafowon
+18 s 3 c 9 g 9 i 9 c posfolost
+19 i 6 g 9 i 9 d 7 i 4 plaufolost
+20 g 4 g 4 g 7 i 7 d 3 i 3 plaufowon
+21 s 1 i 6 b 1 a 1 h 6 i 9 e 7 a 1 plaufolost
+22 i 6 c posfowon
+23 s 3 c 9 i 6 c 3 c posufowon
+24 s 1 i 6 e posufowon
+25 s 9 g 6 c 9 c 9 e posfolost
+26 c 2 h 5 b 2 i 5 e 3 7 g 3 c 3 i 9 i 3 c 7 d 7 g 4 c 9 a posufowon
+27 s 3 g 6 c 3 i 6 i 6 6 b 7 d 1 a 1 plaufowon
+28 s 1 i 5 b posufowon
+29 s 3 c 3 d posfolost
+30 g 5 b 9 i 5 b 1 g 1 a 7 g 7 plaufowon
+31 s 1 g 7 d 1 i 6 c 5 g 5 b 6 plafowon
+32 s 3 i 3 b 8 i 6 b 9 f 5 plaufolost
+33 i 6 c 2 i 9 i 3 c 7 g 4 a 7 d 1 g 9 g 4 c posufowon
+34 s 1 g 9 f 3 i 7 d 2 b 3 h 6 c 3 c 3 i 6 c 7 g 6 c 7 g 5 b 9 i 9 c 1 plafowon
+35 s 3 g 9 c 8 plaufolost
+36 g 4 a 1 plaufolost
+37 g 6 plafowon
+38 s 1 a 1 f posfolost
+39 i 6 c 3 i 5 c 7 b 9 i 7 g 4 g 4 h 9 c posufolost
+40 g 4 a 7 c 1 i 3 i 3 c 9 g 9 c posfolost
+41 i 6 b 3 c 9 d 7 c 6 c 7 g 1 g 9 g 7 a 3 g 9 i 4 plaufolost
+42 g 4 plafowon
+43 s 3 a 9 i 6 a 1 i 9 g 9 c 1 g 1 a 9 i 9 g 7 c 3 i 6 plaufolost
+44 i 6 c 7 g 4 plafowon
+45 s 1 c 7 d 1 a posufowon
+46 s 3 i 4 a 1 g 3 i 6 plaufolost
+47 g 5 b 7 d 1 g 4 i 5 b 9 f 1 g 4 e 4 plafowon
+48 s 1 i 9 g posufowon
+49 s 3 g 6 c 9 i 4 plafowon
+50 s 9 plaufolost
+51 g 4 b 2 b 9 i 4 a 9 i 6 b 7 d 3 c 7 plaufowon
+52 s 1 i posufowon
+53 s 3 c 3 g 4 a 9 g 6 plaufolost
+54 i 5 g 9 f 2 b 9 c 7 g 7 f 9 c 3 h 7 g 4 c 1 g 7 g 4 i 6 c 7 plaufolost
+55 g 4 a 7 g 3 i 5 b posfowon
+56 s 7 d 3 i 9 h 4 a 1 plaufolost
+57 i 1 a 1 g 4 a 1 g 4 a 9 g 1 g 9 i 6 c 9 c 2 i 9 i 9 i 4 a 7 g 7 g 3 c 9 g posfolost
+58 g 5 b 3 c 9 i 6 c 2 i 9 g 9 i 7 a 3 c 9 d 1 c posufowon
+59 s 3 c 9 e 5 e 7 d 1 i 6 plafowon
+60 s 1 g 4 i 5 b 9 c 5 i 7 d 2 g 4 plafowon
+61 s 3 a 9 g 4 a 7 g 9 i 7 g 4 b 2 h 6 plafowon
+62 s 7 i 7 g 4 a 1 g 7 c posufowon
+63 s 9 d 1 c 7 d 1 i 9 a 7 g 7 d 7 d 3 i 6 c 1 plafowon
+64 s 1 g 9 i 6 g 4 a 7 g 9 g 8 f 7 a 7 d 3 c 8 c 3 plafowon
+65 s 9 i 2 i 5 b 1 g 6 c 1 plafowon
+66 s 1 g 6 c 7 g 7 g 7 g 3 plaufolost
+67 i 6 b 9 i 9 i 9 i 1 a 1 g 4 a 1 g 9 i 9 i 7 g 7 plaufolost
+68 g 4 a 9 i 9 i 6 c 7 g 1 g 4 a 1 a 8 i 7 g 5 b 3 h 4 plafowon
+69 s 9 i 5 c 9 i 1 plafowon
+70 s 1 i 5 a 1 i 8 f 1 g 7 i 2 c 9 a 7 a 8 a posufowon
+71 s 3 g 6 plafowon
+72 s 3 i 6 c 7 g 5 i 3 i 6 i 1 a 1 a 8 i 9 i 6 c 7 g 3 c 1 i 1 plafowon
+73 s 1 plaufolost
+74 i 5 d 1 e 5 plaufowon
+75 s 3 g posufowon
+76 s 1 g 5 b 9 f 2 c 9 c 1 plaufolost
+77 g 6 c 7 g 7 g 4 plafolost
+78 i 4 a 1 g 9 g 9 f 8 e 8 a 9 a 3 g 7 plaufolost
+79 g 4 a 9 f 5 b 9 i 4 plafowon
+80 s 9 i 4 plaufolost
+81 i 5 b 3 b 9 i 6 c 4 plafowon
+82 s g 4 a 7 g 9 c 3 g posufolost
+83 i 6 g 5 i 5 c 7 a 1 i 6 c 7 d 1 g 4 a 7 g 7 g 4 a 5 b 9 i 9 i posufowon
+84 s 3 i 4 a 1 i 6 c 7 b 1 g 6 c 9 a posufowon
+85 s 1 i 7 d 1 g 7 d 1 g 2 c posfolost
+86 g 4 a 1 a posufolost
+87 i 5 b 9 f 3 g 9 e 3 g 9 i 6 b 3 g 4 b 9 i 9 a 1 i 7 d 3 i 6 i 7 g 4 i 5 plafowon
+88 s 3 c 3 h 5 c 1 h 9 i 6 i 6 c 3 c 8 d 1 a 8 e posfolost
+89 g 5 b 1 i 6 b 7 d 3 b 7 d 1 i 9 i 9 i 7 d 2 g 3 c 9 a 7 plaufolost
+90 7 plaufolost
+91 i 5 b 9 f 1 g 7 g 3 b 7 g 9 g 9 i 4 plafowon
+92 s 1 g 4 a 1 g 1 a 9 i 5 plafowon
+93 s 3 i 6 i posufowon
+94 s 1 i 6 c 9 e 1 plaufowon
+95 s 3 g 9 f 3 g 4 c posfolost
+96 g 4 a 9 f 3 g 7 d 1 a 9 f 1 g 7 d 3 i 6 i 6 e 1 a 7 g 4 c 7 g 7 g 6 plafowon
+97 s 7 d posfolost
+98 i 6 c 7 i 3 c 8 d 1 g 4 plafowon
+99 s 3 g 7 f 9 f 7 d posfolost
+100 g 9 f 9 d posfolost
+101 i 6 c 7 e 1 b 7 g 6 c 9 f 1 a 7 d 1 a 8 f 2 c 9 i 7 g 4 c 9 f 3 plaufolost
+102 g 4 a 1 g 7 g 4 c 3 c 9 plaufolost
+103 i 6 c 9 e 3 i 9 d 7 d 1 a 8 i 9 plaufolost
+104 g 4 a 7 d posfolost
+105 i 5 b 2 c 7 i 3 e posufowon
+106 s 1 i 9 c 9 c 5 c 3 i 6 c 2 i 7 plaufolost
+107 g 4 a 1 g 5 c 9 c 2 c 9 b 3 g 4 a 7 d 1 b 9 g 6 c 9 i 1 plaufolost
+108 

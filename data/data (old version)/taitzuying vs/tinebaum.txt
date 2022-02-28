@@ -1,0 +1,75 @@
+5 g 4 g_ 9_ c 7 plaufowon
+e 7 d 1 plaufolost
+5 i 7b g 9 i 6 plaufolost
+5 a 1 g posufowon
+e 9 f 9 d 1 ib 9 f posfolost
+5 i 1 a 9 i 3 plaufowon
+e 1 g posufowon
+e 3 a 1 plafowon
+e 7 f posufowon
+e 9 e 3 ib_ 8 g 1 plaufolost
+5 a 7b i 3 plaufolost
+5 i 9 a 1 g_ 9 plaufolost
+5 a 3 g_ 7b_ g 7 ib posufowon
+e 1 i posufowon
+e 3 ib 9 f 3 fb 3 ib 7 i 3 g_ posfolost
+5 i 4 i 5 c 9_ i posufowon
+e 1 c 3 h 5 i 3 c 2 ib 9 f posfolost
+5 g 7 a 1 c 7 c posfolost
+5 i 6 plafowon
+e 3 ib_ 3 plaufolost
+5 a 9 i 5 c 3 i 4 plaufolost
+5 i 7 plaufowon
+e 7 d 7 g 4 a 7 g 3 plaufowon
+e 9 f 3 c 3 plaufowon
+e 7 c posufowon
+e 9 d 7 d 7 g 5 c 7 i 3 g 1 a 1 ib 9 g 7 ib 3 cb 1 plaufolost
+5 g 4 a 9_ ib 3 plaufolost
+5 i 6 i posufowon
+e 7 d 7 g 1 c 3 plaufowon
+e 9 f 3 g_ 7 f posfolost
+5 a 1 ib 2 ib 9 f 3 g posufowon
+e 7 i 6 i 1 c 1 plafowon
+e 9 f posfolost
+5 i 3 plafowon
+e 7 f posfolost
+5 g 4 g 4 c 9_ f 3 g posufowon
+e 3 ib 7 i 1 c 7 plaufolost
+5 i 7b g posufowon
+e 9 f 3 i posufowon
+e 7 a 7 i 9 d posfolost
+5 c 3 i 6 c 3 plaufolost
+5 a 7b g 6 ib 6 a 1 h posufowon
+e 9 plaufolost
+5 c 3 g 7b c 3 i posufowon
+e 7 f posufowon
+e 9 f 3 a 7b_ plafowon
+e 7 e 3 i 6 a posfolost
+e 3 g_ 9_ c 3 i 5 plafowon
+e 7 i 6 i 1 plafowon
+e 9 a 7 g 3 ib 7 i 9 i 9 a posufowon
+e 1 c 3 h 7 c posufowon
+e 9 f 7 f posfolost
+5 c 1 a 7 d posufowon
+e 7 d posfolost
+5 a 9_ ib 9 c 1 a 4 plafowon
+e 9 f 3 b posufolost
+5 c 9 plaufolost
+5 a 7b i 9 d 1 g 7 a 1 c posfolost
+5 c 3 g 1 plafowon
+e 1 g 4 c 7 d 1 plaufolost
+5 g 7 d posfolost
+5 g 4 a 1 g 6 plaufolost
+5 c 7b i 5 plafowon
+e 3 c 3 plafowon
+e 1 i 6 a posfolost
+5 a 7b h 4 plafowon
+e 3 i 7 d 9 f 9 a 1 ib 6 c 9 plaufolost
+5 c 7b a 3 i 7 a 7 g 3 plafowon
+e 1 c 3 a 4 plafowon
+e 3 g_ 7 f posfolost
+5 a 1 ib 9 f posufowon
+e 1 g 1 g 1 plafowon
+e 3 plaufolost
+5 c 9_ i 4 g 7 a 7 d posfolost
+5 a 3 i 3 plafowon
