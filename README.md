@@ -9,17 +9,17 @@ Here is an example rally :
 
 We can read this as :
 
-b    : position on court\
-7    : position on court ( an overhead has been hit )\
-d    : position on court\
-3    : position on court\
-a    : position on court\
-7b  : position on court ( a backhand has been hit )\
-g    : position on court\
-3    : position on court\
-pla  : end of the rally because the shuttle was hit "OUT"\
-fo   : the error was forced\
-won  : the rally was won by the player.
+**b**    : position on court\
+**7**    : position on court ( an overhead has been hit )\
+**d**    : position on court\
+**3**    : position on court\
+**a**    : position on court\
+**7b**  : position on court ( a backhand has been hit )\
+**g**    : position on court\
+**3**    : position on court\
+**pla**  : end of the rally because the shuttle was hit "OUT"\
+**fo**   : the error was forced\
+**won**  : the rally was won by the player.
 
 ##
 
