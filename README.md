@@ -1,7 +1,7 @@
 # About
 An attempt to derive insights from data to find a player's "Patterns of Play". These can be exploited in a match.
 
-![Sample report](<./sample_report.jpg>)
+![Sample report](<./samplereport.jpg>)
 
 # Data
 Here is an example rally :
