@@ -22,3 +22,4 @@ fo   : the error was forced\
 won  : the rally was won by the player in question.
 
 Each of these tokens are represented as vectors (distributed or one hot) and can be fed as input to an RNN.
+The RNN can predict where the next shot is most likely to be hit, by looking at the previous shots.
