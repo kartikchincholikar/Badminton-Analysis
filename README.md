@@ -17,9 +17,9 @@ a    : position on court\
 7b  : position on court ( a backhand has been hit )\
 g    : position on court\
 3    : position on court\
-pla  : rally ended because the shuttle was hit "OUT"\
+pla  : end of the rally because the shuttle was hit "OUT"\
 fo   : the error was forced\
-won  : the rally was won by the player in question.
+won  : the rally was won by the player.
 
 ##
 
