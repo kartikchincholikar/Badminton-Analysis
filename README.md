@@ -5,7 +5,7 @@ Here is a sample report:
 ![Sample report](https://i.imgur.com/K9qGB9z.jpg)
 
 ## Rally Simulator
-![Rally Simulator](<./rally simulator_v2.png>)
+![Rally Simulator](https://i.imgur.com/jXJhdYy.png)
 
 
 # Data
