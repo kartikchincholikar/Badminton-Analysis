@@ -2,7 +2,7 @@
 An attempt to collect and use data to find a player's "Patterns of Play". These can be exploited in a match.\
 Here is a sample report:
 
-![Sample report](<./samplereport.jpg>)
+![Sample report](https://i.imgur.com/K9qGB9z.jpg)
 
 ## Rally Simulator
 ![Rally Simulator](<./rally simulator_v2.png>)
