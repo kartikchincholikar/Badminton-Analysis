@@ -5,7 +5,7 @@ Here is a sample report:
 ![Sample report](<./samplereport.jpg>)
 
 ## Rally Simulator
-![Rally Simulator](rally simulator_v2.png)
+![Rally Simulator](<./rally simulator_v2.png>)
 
 
 # Data
